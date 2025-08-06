@@ -39,6 +39,9 @@ Here are some of the exercises I have completed:
    - **Description:** A simple text-based adventure game demonstrating object-oriented programming principles in C#.
    - **Languages Used:** C#
 
+3. **Plant Care Program**
+   - **Description:** A simple text based hydration management program demonstrating multithreading in C#
+   - **Languages Used:** C#
 
 Thank you for visiting my portfolio!
 
