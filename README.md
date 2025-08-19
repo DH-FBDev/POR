@@ -60,6 +60,3 @@ Here are some of the exercises and projects I have completed:
 Thank you for visiting my portfolio!
 
 **Last Updated: August 19, 2025**
-
-
-This format enhances clarity and organization, making it easier for readers to navigate through your portfolio.
