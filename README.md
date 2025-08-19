@@ -32,24 +32,32 @@ I am a **Full Stack Application Developer** with a diploma in **Application Deve
 
 Here are some of the exercises and projects I have completed:
 
-**Simple Exercises (Folder: 0815)**  
+**Simple Exercises (Folder: 0815)**
+
 **Description:** A collection of simple programming exercises to practice fundamental concepts, including:  
 - **FizzBuzz:** A classic programming challenge that prints numbers from 1 to 100, with specific outputs for multiples of three and five.  
 - **Anagram Checker:** A program that checks if two strings are anagrams of each other.  
 - **Palindrome Checker:** A program that checks if a given string is a palindrome.  
 **Languages Used:** C#, Java  
 
-**Text Adventure Game (Folder: C# Project - txtadventure)**  
+
+**Text Adventure Game (Folder: C# Project - txtadventure)**
+
 **Description:** A simple text-based adventure game demonstrating object-oriented programming principles in C#.  
 **Languages Used:** C#  
 
-**Plant Care Program (Folder: C# Project - plantcare)**  
+
+**Plant Care Program (Folder: C# Project - plantcare)**
+
 **Description:** A simple text-based hydration management program demonstrating multithreading in C#.  
 **Languages Used:** C#  
 
-**User Registration and Login System (Folder: PHP Project - User Registration and Login)**  
+
+**User Registration and Login System (Folder: PHP Project - User Registration and Login)**
+
 **Description:** A lightweight PHP-based project that implements user registration and login functionality with an SQLite database. It demonstrates secure password handling, JSON API responses, table auto-creation, and case-insensitive duplicate checks for usernames and emails. The repository also includes a preconfigured `db.db` with demo credentials to test login immediately.  
 **Languages/Technologies Used:** PHP, SQLite, HTML, CSS, JavaScript  
+
 
 ***
 
