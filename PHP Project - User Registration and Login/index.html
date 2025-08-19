@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flipping Login/Register Card</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="card">
+  <div class="card-inner" id="cardInner">
+
+    <!-- Front: Welcome -->
+    <div class="card-face card-front">
+      <h2>Welcome!</h2>
+      <p>Please log in or register.</p>
+      <button onclick="showLogin()">Login</button>
+      <button onclick="showRegister()">Register</button>
+    </div>
+
+    <!-- Right: Login -->
+    <div class="card-face card-login">
+      <h2>Login</h2>
+      <form action="controller.php" method="POST">
+        <input type="text" name="username" placeholder="Username" required>
+        <input type="password" name="password" placeholder="Password" required>
+        <button type="submit" name="action" value="login">Login</button>
+      </form>
+      <button class="cancel-button" onclick="showFront()">Cancel</button>
+    </div>
+
+    <!-- Back: Register -->
+    <div class="card-face card-register">
+      <h2>Register</h2>
+      <form action="controller.php" method="POST">
+        <input type="text" name="reg_username" placeholder="Username" required>
+        <input type="password" name="reg_password" placeholder="Password" required>
+        <input type="email" name="email" placeholder="Email" required>
+        <button type="submit" name="action" value="register">Register</button>
+      </form>
+      <button class="cancel-button" onclick="showFront()">Cancel</button>
+    </div>
+
+  </div>
+</div>
+
+<script>
+const cardInner = document.getElementById("cardInner");
+
+function showFront() {
+  cardInner.style.transform = "rotateY(0deg)";
+}
+
+function showLogin() {
+  cardInner.style.transform = "rotateY(-90deg)";
+}
+
+function showRegister() {
+  cardInner.style.transform = "rotateY(-180deg)";
+}
+</script>
+
+
+</body>
+</html>
