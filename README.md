@@ -55,7 +55,7 @@ Here are some of the exercises and projects I have completed:
 **Description:** A lightweight PHP-based project that implements user registration and login functionality with an SQLite database. It demonstrates secure password handling, JSON API responses, table auto-creation, and case-insensitive duplicate checks for usernames and emails. The repository also includes a preconfigured `db.db` with demo credentials to test login immediately.  
 **Languages/Technologies Used:** PHP, SQLite, HTML, CSS, JavaScript  
 
-### Realizing High-Level Concepts through Implementation
+### Realizing High-Level Concepts through Implementation (Java Project - Realizing High-Level Concepts through Implementation)
 **Description:** This project aims to realize a high-level conceptual framework in code form. It begins with formulating clear and simple definitions of abstract ethical concepts, distills these ideas into a mathematical formula, and then translates that formula into working Java code.
 **Languages/Technologies Used:** Java
 
@@ -63,4 +63,4 @@ Here are some of the exercises and projects I have completed:
 
 Thank you for visiting my portfolio!
 
-**Last Updated: November 03, 2025**
+**Last Updated: November 06, 2025**
