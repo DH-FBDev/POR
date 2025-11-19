@@ -15,4 +15,3 @@ The project models the ethical evaluation process by defining "good" as actions 
 - Deontological warning signals represented as infinite costs to forbid morally impermissible actions.
 - Hindsight bias removal by evaluating decisions based only on information available at the time.
 - Code structure supports extension towards AI ethics and impartial decision analysis.
-Code structure supports extension towards AI ethics and impartial decision analysis.
